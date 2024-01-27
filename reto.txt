@@ -1,0 +1,3 @@
+este es un reto que debo hacer e n 3 minutos esta en la diapositiva 31 Empezaremos a trabajar en nuestro repositorio local, así que en la branch master (recuerda que es la rama por default) crea un archivo .txt (el nombre que tu quieras) y agrégale un poco de texto.
+
+Después  crea una versión para dicho archivo, y posteriormente, súbelo a tu repositorio remoto, también en la rama master.
